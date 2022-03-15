@@ -8,5 +8,11 @@ I am  a 22 year-old college student who is studying at Langara. I'm a internatio
 ### Work Experience
 1 year as IT with Atomic Cartoons
 [Atomic](https://atomiccartoons.com/)
+
 ![Atomic](image/atomic.png)
+
 1 year as dishwasher with Lunch Lady
+
+[Lunch Lady](https://thelunchlady.com/)
+
+
